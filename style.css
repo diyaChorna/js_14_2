@@ -1,0 +1,140 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  .all{
+      height: 956px;
+      background-color: aqua;
+      justify-content: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .box{
+      width: 40%;
+      height: 80%;
+      border-radius: 5%;
+      background-color: rgb(100, 8, 248);
+  }
+  .green{
+      background-color: rgb(138, 241, 2);
+      height: 15%;
+      border-top-left-radius: 25%;
+      border-top-right-radius: 25%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 30px;
+      color: white;
+  }
+  .person{
+      padding-left: 5%;
+      padding-top: 5%;
+  }
+  .name, .sname, .email{
+      width: 94%;
+      height: 50px;
+      margin-top: 2%;
+  }
+  .point{
+      padding-left: 5%;
+      padding-right: 5px;
+      margin-top: 5%;
+      display: flex;
+  }
+  .man, .woman{
+      width: 20%;
+      height: 20px;
+      font-size: 23px;
+  }
+  .position{
+      padding-left: 5%;
+      padding-top: 4%;
+  }
+  .positionSel{
+      width: 94%;
+      height: 50px;
+      margin-top: 3%;
+  }
+  .checkbox{
+      width: 10%;
+      height: 15px;
+      margin-left: 1%;
+      margin-top: 3%;
+  }
+  .buttonPerson{
+      background-color: rgb(138, 241, 2);
+      margin-left: 5%;
+      margin-top: 3.5%;
+      width: 89%;
+      height: 50px;
+      border-radius: 10%;
+  }
+  
+  
+  .box2{
+      width: 30%;
+      height: 60%;
+      border-radius: 5%;
+      border: 2px solid rgb(221, 250, 212);
+      background-color: rgb(100, 8, 248);
+  }
+  .greenTop{
+      background-color: rgb(138, 241, 2);
+      height: 25%;
+      border-top-left-radius: 25%;
+      border-top-right-radius: 25%;
+  }
+  .image{
+      width: 8%;
+      height: 15%;
+      position: absolute;
+      border-radius: 50%;
+      left: 45.5%;
+  }
+  .boxName{
+      height: 23%;
+      display:flex;
+  }
+  .name2,.sname2{
+      width: 20%;
+      height: 35%;
+      margin-top: 15%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size:18px;
+  }
+  .name2{
+      margin-left: 28%;
+  }
+  .boxEmail, .boxPosition{
+      height: 8%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size:18px;
+  }
+  .boxPosition{
+      height: 9%;
+  }
+  .boxButton{
+      height: 15%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .button2{
+      width: 25%;
+      height: 50px;
+      border-radius: 10%;
+      border: 3px solid  rgb(138, 241, 2);
+      color: rgb(138, 241, 2);
+  }
+  .greenBottom2{
+      background-color: rgb(138, 241, 2);
+      height: 20%;
+      border-bottom-left-radius: 25%;
+      border-bottom-right-radius: 25%;
+  } 
